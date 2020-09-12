@@ -19,8 +19,8 @@ An ML project template and framework to quickly plan, iterate, and deploy to pro
 - GCP
 
 ## Deplpoyment and Publication
-[Project Name Deployed Here](keenanvenuti.com/projects)
-[Project Name Published Here](keenanvenuti.com/projects)
+- [Project Name Deployed Here](keenanvenuti.com/projects)
+- [Project Name Published Here](keenanvenuti.com/projects)
 
 ## Installation and Running
 ```sh
