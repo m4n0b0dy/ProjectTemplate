@@ -22,8 +22,7 @@ An ML project template and framework to quickly plan, iterate, and deploy to pro
 [Project Name Deployed Here](keenanvenuti.com/projects)
 [Project Name Published Here](keenanvenuti.com/projects)
 
-## Installation and Running Instructions
-
+## Installation and Running
 ```sh
 git clone git.repo.com
 ```
